@@ -5,7 +5,7 @@
 
 >Para Ejecutar y desplegar
 > ejecutar `npm i` para instalar dependencias
-> `npm run start` para ejecutar
+> `npm run start` para ejecutar, se debe configurar la base de datos
 
 - 💬 Ask me about **vue, react, javascript, php, laravel**
 
