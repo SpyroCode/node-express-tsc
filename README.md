@@ -1,4 +1,4 @@
-<h1 align="center">APIRest 👋, CRUD Usuarios</h1>
+<h1 align="center">APIRest, CRUD Usuarios</h1>
 <h3 align="center">Sencilla APIRest con  | Node | TypeScript | Sequelize | mysql </h3>
 
 - 🌱 Sencilla APIRest en TypeScript y Node, Routes, Models y controllers 
